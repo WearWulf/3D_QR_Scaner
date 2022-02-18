@@ -1,0 +1,3 @@
+include ':engine_model'
+include ':app', ':engine_test'
+rootProject.name = "3D QR Scaner"

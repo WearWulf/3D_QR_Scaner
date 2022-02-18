@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QD Сканер</string>
+    <string name="title_activity_base">Главная активность</string>
+    <string name="title_activity_user__base">Активность пользователя</string>
+    <string name="navigation_drawer_open">Открытие панели навигации</string>
+    <string name="navigation_drawer_close">Закрытие панели навигации</string>
+    <string name="nav_header_title">Пользователь</string>
+    <string name="nav_header_subtitle">Помощь - wearwulf@ukr.net</string>
+    <string name="nav_header_desc">Навигация</string>
+
+
+    <string name="menu_scanner">Сканер</string>
+    <string name="menu_gallery">3D объекты</string>
+    <string name="menu_slideshow">Добавить объект</string>
+    <string name="menu_exit">Выход</string>
+
+    <string name="error_email">Введите свой логин</string>
+    <string name="error_pass">Введите пароль</string>
+    <string name="authorization_hint_login">Логин</string>
+    <string name="authorization_hint_password">Пароль</string>
+    <string name="authorization_button_login">Вход</string>
+    <string name="authorization_button_admin_login">Войти как админ</string>
+    <string name="authorization_button_user_login">Войти как гость</string>
+    <string name="authorization_button_back">Назад</string>
+    <string name="qr_text">Поместите QR-Код в середину квадрата.</string>
+    <string name="title_login_fragment">Вход</string>
+    <string name="description_login_fragment">Акаунт администратора</string>
+    <string name="snack_succes">Вход в аккаунт администратора</string>
+    <string name="snack_error">Ошибка вход! Неверный пароль или логин.</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="logout">Выйти</string>
+    <string name="masage_exit_title">Предупреждение!</string>
+    <string name="mesage_exit_text">Вы уверены что хотите выйти с аккаунта?</string>
+    <string name="mesage_exit_but_can">Отмена</string>
+    <string name="mesage_exit_but_sub">Выход</string>
+    <string name="label">Название объекта</string>
+    <string name="button_addobj">Загрузить картинку</string>
+    <string name="but_add_item">Добавить</string>
+    <string name="substring_add_card">Подпись</string>
+    <string name="text_but_up_obj">Загрузить модель</string>
+
+    <string name="toggle_wireframe">Toggle wireframe</string>
+    <string name="toggle_textures">Toggle textures</string>
+    <string name="toggle_lights">Toggle lights</string>
+    <string name="toggle_animation">Toggle animation</string>
+    <!--<string name="toggle_skeleton">Toggle skeleton</string>-->
+    <string name="toggle_boundingbox">Toggle bounding box</string>
+    <string name="load_texture">Load texture</string>
+    <string name="edit_button">Редагувати</string>
+    <string name="dell_button">Видалити</string>
+    <string name="watch_model">Дивитися</string>
+    <string name="changeOb_but">Change</string>
+    <string name="edit_im">but_edit_image</string>
+    <string name="text_lab_obj">3D model</string>
+    <string name="information_label">Information</string>
+    <string name="image_3d_model_text">Image 3D model</string>
+    <string name="qr_cod">QR-cod</string>
+    <string name="send_button">send qr</string>
+</resources>

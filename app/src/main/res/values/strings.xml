@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">QD Scanner</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">User</string>
+    <string name="nav_header_subtitle">Help mail - wearwulf@ukr.net</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_scanner">Scanner</string>
+    <string name="menu_gallery">List QR 3d object</string>
+    <string name="menu_slideshow">Add QR 3d object</string>
+    <string name="menu_exit">Log out</string>
+
+    <string name="error_email">Enter your login</string>
+    <string name="error_pass">Enter your password</string>
+    <string name="authorization_hint_login">Login</string>
+    <string name="authorization_hint_password">Password</string>
+    <string name="authorization_button_login">Enter</string>
+    <string name="authorization_button_admin_login">Enter Admin</string>
+    <string name="authorization_button_user_login">Enter User</string>
+    <string name="authorization_button_back">Back</string>
+    <string name="qr_text">Place the QR Code in the middle of the square.</string>
+    <string name="title_activity_user__base">User_BaseActivity</string>
+    <string name="title_login_fragment">Login</string>
+    <string name="description_login_fragment">Admin acaunt</string>
+    <string name="snack_succes">Login to administrator account</string>
+    <string name="snack_error">Error! Please check your password or Email</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="logout">Logout</string>
+    <string name="masage_exit_title">Warning!</string>
+    <string name="mesage_exit_text">Are you sure you want to log out of your account?</string>
+    <string name="mesage_exit_but_can">Canсel</string>
+    <string name="mesage_exit_but_sub">Exit</string>
+    <string name="label">Name object</string>
+    <string name="button_addobj">Upload image</string>
+    <string name="but_add_item">Add</string>
+    <string name="substring_add_card">Description</string>
+    <string name="text_but_up_obj">Upload object</string>
+
+    <string name="toggle_wireframe">Toggle wireframe</string>
+    <string name="toggle_textures">Toggle textures</string>
+    <string name="toggle_lights">Toggle lights</string>
+    <string name="toggle_animation">Toggle animation</string>
+    <!--<string name="toggle_skeleton">Toggle skeleton</string>-->
+    <string name="toggle_boundingbox">Toggle bounding box</string>
+    <string name="load_texture">Load texture</string>
+    <string name="edit_button">Edit</string>
+    <string name="dell_button">Delete</string>
+    <string name="watch_model">Watch model</string>
+    <string name="changeOb_but">Change</string>
+    <string name="edit_im">but_edit_image</string>
+    <string name="text_lab_obj">3D model</string>
+    <string name="information_label">Information</string>
+    <string name="image_3d_model_text">Image 3D model</string>
+    <string name="qr_cod">QR-cod</string>
+    <string name="send_button">send qr</string>
+</resources>

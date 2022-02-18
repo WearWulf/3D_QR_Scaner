@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "38533495949",
+    "firebase_url": "https://qrscan3d-default-rtdb.firebaseio.com",
+    "project_id": "qrscan3d",
+    "storage_bucket": "qrscan3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38533495949:android:7d4e5bed8d1fcdcafe76c4",
+        "android_client_info": {
+          "package_name": "com.savonikaleksandr.scaner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38533495949-89r2lhc740cd9kr498ji4egi6e6ksq2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1oIz_YsS4TzztnhXH8xY3tjp-pSW4XCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38533495949-89r2lhc740cd9kr498ji4egi6e6ksq2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
