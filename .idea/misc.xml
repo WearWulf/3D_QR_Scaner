@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/38098/AndroidStudioProjects/3DQRScaner/app/src/main/res/drawable/ic_menu_camera.xml" value="0.3345" />
+        <entry key="..\:/Users/38098/AndroidStudioProjects/3DQRScaner/app/src/main/res/layout/activity_item.xml" value="0.2821557971014493" />
+        <entry key="..\:/Users/38098/AndroidStudioProjects/3DQRScaner/app/src/main/res/layout/buityful_list_item.xml" value="0.2821557971014493" />
+        <entry key="..\:/Users/38098/AndroidStudioProjects/3DQRScaner/app/src/main/res/layout/fragment_list_object.xml" value="0.3463541666666667" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
